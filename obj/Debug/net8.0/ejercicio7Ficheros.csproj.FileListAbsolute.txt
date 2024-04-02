@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\bin\Debug\net8.0\ejercicio7Ficheros.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\bin\Debug\net8.0\ejercicio7Ficheros.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\bin\Debug\net8.0\ejercicio7Ficheros.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\bin\Debug\net8.0\ejercicio7Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\bin\Debug\net8.0\ejercicio7Ficheros.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\refint\ejercicio7Ficheros.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ejercicio7Ficheros.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio7Ficheros\obj\Debug\net8.0\ref\ejercicio7Ficheros.dll
